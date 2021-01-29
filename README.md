@@ -1,2 +1,2 @@
 # SupTestProjekt
-testprojekt för angular, devops, mvc
+testprojekt för angular, devops, mvcs
